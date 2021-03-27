@@ -57,6 +57,7 @@ p {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    text-align: center;
 }
 
 .primary_button {
@@ -92,6 +93,7 @@ p {
 
 .game_info {
     margin-top: 15px;
+    text-align: center;
 }
 
 
